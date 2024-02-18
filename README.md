@@ -1,1 +1,1 @@
-# Unity_OnMindEvent
+# 유니티 디지털 휴먼 튜토리얼 챌린지에 참여할 용도로 생성한 Repository입니다.
